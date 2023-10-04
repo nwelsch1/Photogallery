@@ -127,3 +127,10 @@ figure {
     position: relative;
     padding: 5px;
 }
+fig > figcaption {
+    text-align: center;
+    width: 90%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    color: #000000;
+}
