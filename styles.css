@@ -67,6 +67,7 @@ h2 {
     text-align: center;
     margin-top: 10px;
     margin-bottom: 20px;
+    text-transform: capitalize;
 }
 .borderstyle {
     background-color: #ffffff;
