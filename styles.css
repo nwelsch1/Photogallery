@@ -57,6 +57,7 @@ h1 {
     color: #007d7b;
     font-size: 3em;
     text-align: center;
+    text-transform: capitalize;
 }
 h2 {
     font-size: 2em;
