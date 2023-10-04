@@ -110,5 +110,16 @@ main {
     color: #000000;
 }
 figcaption {
-    font-family: italic, arial;
+    text-align: center;
+    text-transform: uppercase;
+}
+image {
+    display: block;
+    width: 100%;
+}
+.gallerystyle {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 5px;
+    position: relative;
 }
