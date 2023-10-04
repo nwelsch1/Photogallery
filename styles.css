@@ -198,3 +198,13 @@ input::placeholder {
     color: #007d7b;
     font-weight: bold;
 }
+form input[type="submit"] {
+    background-color: #007d7b;
+    border: none;
+    padding: 0.5em;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 15px;
+    width: 50%;
+    margin-bottom: 55px;
+}
