@@ -106,3 +106,9 @@ p {
 figcaption, label, input, small {
     font-size: 1em;
 }
+main {
+    color: #000000;
+}
+figcaption {
+    font-family: italic, arial;
+}
