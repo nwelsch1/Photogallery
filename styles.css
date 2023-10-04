@@ -241,7 +241,7 @@ footer {
         grid-template-columns: repeat(3, 1fr);
     }
     nav ul {
-        justify-content: end;
+        justify-content: right;
     }
     .gallerystyle>figure:nth-of-type(3) figcaption {
         bottom: 10px;
