@@ -100,3 +100,9 @@ nav a:hover {
     right: 0px;
     border-radius: 10px 0 0px 0px;
 }
+p {
+    font-size: 1.25em;
+}
+figcaption, label, input, small {
+    font-size: 1em;
+}
