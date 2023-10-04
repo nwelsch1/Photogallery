@@ -41,6 +41,9 @@ table {
     border-spacing: 0;
 }
 /*End of Reset*/
+* {
+    box-sizing: border-box;
+}
 html {
     background-color: #000000;
     box-sizing: border-box;
