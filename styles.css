@@ -177,3 +177,22 @@ form label, form input, form p {
     width: 100%;
     margin-bottom: 10px;
 }
+form p {
+    text-align: center;
+}
+form p + p {
+    display: none;
+}
+form label {
+    margin-bottom: 0;
+}
+form input[type="text"], 
+form input[type="email"],
+form label {
+    padding-left: 10px;
+    width: 85%;
+}
+input::placeholder {
+    color: #007d7b;
+    font-weight: bold;
+}
