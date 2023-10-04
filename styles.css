@@ -141,3 +141,21 @@ fig > figcaption {
     bottom: 10px;
     left: 50%;
 }
+.gallerystyle>figure:nth-of-type(2) figcaption,
+.gallerystyle>figure:nth-of-type(4) figcaption,
+.gallerystyle>figure:nth-of-type(5) figcaption,
+.gallerystyle>figure:nth-of-type(8) figcaption,
+.gallerystyle>figure:nth-of-type(9) figcaption,
+.gallerystyle>figure:nth-of-type(10) figcaption,
+.gallerystyle>figure:nth-of-type(11) figcaption,
+.gallerystyle>figure:nth-of-type(12) figcaption, {
+    top: 20px;
+    left: 50%;
+}
+.gallerystyle>figure:nth-of-type(1) figcaption,
+.gallerystyle>figure:nth-of-type(2) figcaption,
+.gallerystyle>figure:nth-of-type(3) figcaption,
+.gallerystyle>figure:nth-of-type(7) figcaption,
+.gallerystyle>figure:nth-of-type(12) figcaption {
+    color: #ffffff;
+}
