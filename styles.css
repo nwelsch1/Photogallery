@@ -61,6 +61,7 @@ h1 {
     font-size: 3em;
     text-align: left;
     text-transform: uppercase;
+    font-weight: bold;
 }
 h2 {
     font-size: 2em;
@@ -68,6 +69,7 @@ h2 {
     margin-top: 10px;
     margin-bottom: 20px;
     text-transform: uppercase;
+    font-weight: bold;
 }
 h2+p {
     margin-bottom: 10px;
