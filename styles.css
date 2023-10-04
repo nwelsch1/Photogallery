@@ -88,3 +88,6 @@ nav a{
     margin-right: 20px;
     text-transform: uppercase;
 }
+nav a:hover {
+    color: #007d7b;
+}
