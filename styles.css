@@ -102,6 +102,8 @@ nav a:hover {
 }
 p {
     font-size: 1.25em;
+    line-height: 2em;
+    margin-left: 10px;
 }
 figcaption, label, input, small {
     font-size: 1em;
