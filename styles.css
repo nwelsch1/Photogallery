@@ -207,7 +207,7 @@ form input[type="submit"] {
     color: #ffffff;
     cursor: pointer;
     border-radius: 15px;
-    width: 50%;
+    width: 100%;
     margin-bottom: 55px;
 }
 legend {
