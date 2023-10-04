@@ -129,7 +129,7 @@ figure {
     position: relative;
     padding: 5px;
 }
-fig > figcaption {
+figure > figcaption {
     text-align: center;
     width: 90%;
     transform: translate(-50%, -50%);
