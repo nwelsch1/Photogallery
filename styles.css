@@ -64,3 +64,8 @@ h2 {
     margin-top: 10px;
     margin-bottom: 20px;
 }
+.borderstyle {
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding: 0 20px;
+}
