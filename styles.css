@@ -159,3 +159,21 @@ fig > figcaption {
 .gallerystyle>figure:nth-of-type(12) figcaption {
     color: #ffffff;
 }
+.formstyle {
+    color:#ffffff;
+    background-color: #000000;
+    margin: 0 auto;
+    width: 100%;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    margin: 0 auto;
+}
+form label, form input, form p {
+    width: 100%;
+    margin-bottom: 10px;
+}
