@@ -133,7 +133,7 @@ figure > figcaption {
     text-align: center;
     width: 90%;
     transform: translate(-50%, -50%);
-    position: fixed;
+    position: absolute;
     color: #000000;
 }
 .gallerystyle>figure:nth-of-type(1) figcaption,
