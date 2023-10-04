@@ -211,3 +211,25 @@ form input[type="submit"] {
 legend {
     visibility: hidden;
 }
+footer {
+    color: #ffffff;
+    background-color: #000000;
+    text-align: center;
+}
+@media screen and (min-width:880px) {
+    body {
+        max-width: 880px;
+    }
+    .gallerystyle {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    h1 {
+        text-align: left;
+    }
+    nav ul {
+        justify-content: center;
+    }
+    .gallerystyle>figure:nth-of-type(3) figcaption {
+        bottom: 350px;
+    }
+}
