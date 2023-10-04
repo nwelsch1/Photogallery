@@ -69,6 +69,9 @@ h2 {
     margin-bottom: 20px;
     text-transform: uppercase;
 }
+h2+p {
+    margin-bottom: 10px;
+}
 .borderstyle {
     background-color: #ffffff;
     margin: 0 auto;
